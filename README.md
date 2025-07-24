@@ -46,7 +46,7 @@ npm install
 ### 3. Execute o jogo
 
 ```bash
-node index.js
+node src/index.js
 ```
 
 Siga as instruções no terminal para:
